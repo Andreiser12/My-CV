@@ -1,14 +1,12 @@
 # My-CV
 
 
-The Game
+C# compiler: VS Code + ANTLR4 extension is required.
 
-C# compiler
+Ticket Resevation: Intellij IDEA IDE is required.
 
-Ticket Resevation
+Luxembourg: Qt framework is required.
 
-Luxembourg
+WRONG WAY + 3D Formulas: https://drive.google.com/drive/folders/1FoeTCwaQ9YRuBPuRDR2u7Q8mJJe0nsgj?usp=sharing
 
-WRONG WAY 
 
-3D Formulas
